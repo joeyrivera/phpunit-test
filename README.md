@@ -11,4 +11,4 @@ vendor/bin/phpunit tests/
 
 To create the documentation (you need xdebug installed and loaded in PHP)
 
-vendor/bin/phpunit --coverage-report-html report tests/
+vendor/bin/phpunit --coverage-html report tests/
